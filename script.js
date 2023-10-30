@@ -19,8 +19,5 @@ form.addEventListener('submit', (e) => {
    }
 
 })
-//     setErrorFor(name,'name cannot be empty');
-// }else{
-//     setSuccessFor(name);
-// }
+
  
